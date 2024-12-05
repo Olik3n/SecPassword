@@ -22,5 +22,5 @@
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu_usuario/SecPassword.git
+   git clone https://github.com/Olik3n/SecPassword.git
    cd SecPassword
